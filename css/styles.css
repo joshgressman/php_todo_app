@@ -25,3 +25,17 @@ main {
   width: 320px;
   height: 40px;
 }
+
+.theList {
+  list-style: none;
+}
+
+.theList li{
+    border: solid black 1px;
+    height: 40px;
+    padding: 4px 0 2px 2px;
+}
+
+li:nth-child(even) {
+    background-color: lightgray;
+}

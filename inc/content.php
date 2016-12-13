@@ -18,7 +18,11 @@
    </form>
 </div>
   <div id="task">
+    <form>
+    <ul class="theList">
   <?php
   include("inc/get.php");
   ?>
+</ul>
+</form>
   </div>

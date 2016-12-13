@@ -1,15 +1,27 @@
 header {
-  height: 100px;
-  background-color: red;
+  height: 50px;
+  background-color: orange;
+  color: white;
 }
 
 main {
   height: 400px;
+  padding: 0 0 0 10px;
 
 }
 
 
 #footer {
-  height: 200px;
-  background-color: blue;
+  height: 50px;
+  background-color: orange;
+    color: white;
+}
+
+#addTask{
+  margin-top: 10px;
+}
+
+#new_task{
+  width: 320px;
+  height: 40px;
 }
